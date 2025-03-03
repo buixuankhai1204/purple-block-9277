@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "purple-block-9277",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6a905f01-c910-4e63-b403-1d0f036b71ea",
+      "database_name": "purple-block-9277-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
